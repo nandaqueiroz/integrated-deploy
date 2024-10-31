@@ -1,6 +1,7 @@
 version: 2.1
 
-# Orbs: importam comandos ou jobs definidos pela comunidade para executar no seu workflow
+# Orbs: importam comandos ou jobs definidos pela comunidade para executar no seu workflow yay
+
 orbs:
   discord: antonioned/discord@0.1.0
 
