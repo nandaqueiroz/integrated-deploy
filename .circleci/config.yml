@@ -98,7 +98,7 @@ workflows:
           requires:
             - Notificação de começo da build
           # context:
-          #   - Discord
+          #   - Discord //
       - build-frontend:
           name: Build do serviço de frontend
           requires:
